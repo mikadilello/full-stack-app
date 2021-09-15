@@ -1,0 +1,21 @@
+[ {
+  "name": "Harry Hypertext",
+  "email": "harry@html.com",
+  "phone": "123-456-7890",
+  "birthdate": "01/01/1993",
+  "id": "1"
+},
+{
+  "name": "Sam Cascade",
+  "email": "sam@css.com",
+  "phone": "801-456-1234",
+  "birthdate": "12/17/1996",
+  "id": "2"
+},
+{
+  "name": "Jessica Script",
+  "email": "jessie@script.com",
+  "phone": "555-666-7777",
+  "birthdate": "12/04/1995",
+  "id": "3"
+}]
